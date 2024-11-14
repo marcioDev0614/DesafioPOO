@@ -1,0 +1,16 @@
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.exe
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.deps.json
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.json
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.dev.json
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.dll
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\bin\Debug\net5.0\ref\ExemploPOO.dll
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\bin\Debug\net5.0\ExemploPOO.pdb
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.AssemblyReference.cache
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfoInputs.cache
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfo.cs
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.CoreCompileInputs.cache
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.dll
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ref\ExemploPOO.dll
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.pdb
+E:\FormacaoNetDioConsole\ExemploPOO\ExemploPOO\obj\Debug\net5.0\ExemploPOO.genruntimeconfig.cache
